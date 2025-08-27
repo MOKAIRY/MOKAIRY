@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">My name is Meshal and I'm an IT Specialist.</p>
+<p align="left">My name is Meshal, and I'm an IT Student with an ambition to learn more.</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I Code With</h2>
 
 ###
 
@@ -28,16 +28,30 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3NueDJpa2NnZjRmZHRjNm50Z3loc3RmbWNod2owZzlkcTR1d3F6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif"  />
+<h2 align="left">Tools I Used</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MOKAIRY/MOKAIRY/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MOKAIRY/MOKAIRY/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MOKAIRY/MOKAIRY/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3NueDJpa2NnZjRmZHRjNm50Z3loc3RmbWNod2owZzlkcTR1d3F6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif"  />
+</div>
 
 ###
